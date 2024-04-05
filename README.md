@@ -47,7 +47,7 @@ Ravneet Singh
 
 ## License
 
-This project is licensed under the [MIT License].
+This project is provided for educational purposes. Any use of this project beyond educational purposes requires explicit permission, and proper credit must be given to the original source.
 
 ## Acknowledgements
 

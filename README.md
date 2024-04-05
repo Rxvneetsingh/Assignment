@@ -41,6 +41,10 @@ In this part, you'll create a new binary column for each unique category using t
 2. Open the Jupyter Notebook file or Python script corresponding to the lab exercises.
 3. Follow the instructions within the code to complete each part of the lab.
 
+## Deployment
+
+As this project is primarily designed for educational purposes and code exploration, there is no specific deployment process. The provided code and exercises can be run locally on your machine using Jupyter Notebook or Python scripts.
+
 ## Author
 
 Ravneet Singh
